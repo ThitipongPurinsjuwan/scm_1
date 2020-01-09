@@ -1,2 +1,3 @@
 # scm_1
-lab1new
+SCM_Lap1 
+Name : Thitipong Purinsuwan  61103776
